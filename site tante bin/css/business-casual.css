@@ -1,0 +1,164 @@
+/*!
+ * Start Bootstrap - Business Casual (https://startbootstrap.com/template-overviews/business-casual)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/master/LICENSE)
+ */
+.img-banner {
+    align-items: center;
+}
+.nav-link.text-uppercase.text-expanded {
+    color: silver;
+    
+    
+}
+.navbar-brand.text-uppercase.text-expanded.font-weight-bold.d-lg-none {
+    color: silver;
+    
+}
+
+header {
+    position: absolute;
+}
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background-color: #1E1E1E;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+    color :#c0c0c0;
+   
+}
+
+h1, h2, h3, h4, h5, h6, .text-heading {
+  font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.tagline-upper {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.tagline-lower {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.text-expanded {
+  letter-spacing: 2px;
+    
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.text-lg {
+  font-size: 1.25rem;
+}
+
+.bg-faded {
+    background-color: #1E1E1E;
+
+}
+
+.bg-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+    
+}
+
+hr.divider {
+  border-color: #292b2c;
+  max-width: 250px;
+}
+
+.map-container iframe {
+  pointer-events: none;
+}
+
+.map-container iframe.clicked {
+  pointer-events: auto;
+}
+.gallery-title
+{
+    font-size: 36px;
+    color: #42B32F;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+.filter-button
+{
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+    color: #c0c0c0;
+    margin-bottom: 30px;
+    background-color: #1E1E1E;
+
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #c0c0c0;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    background-color: #1E1E1E;
+
+}
+.center {    
+    
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color: silver;
+    color: white;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+.row {
+    text-align: center;
+    align-content: center;
+}
+#splashscreen {
+    
+    height: 100%;
+    width:100%;
+    z-index: 99;
+}
+#logo {
+    background-image: url(/img/homescherm.jpg);
+        display: block;
+}
+.nav-item.active.px-lg-4 {
+    color: silver;
+}
